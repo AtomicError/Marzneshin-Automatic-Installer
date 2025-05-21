@@ -1,1 +1,1 @@
- ## Marzneshin Atomatic Installation ##
+ ## Marzneshin automatic installation ##
